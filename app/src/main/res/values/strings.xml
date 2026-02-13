@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="google_ml_kit">Google ML Kit</string>
+    <string name="galeria">Abrir la Galería</string>
+    <string name="camara">Abrir la Cámara</string>
+    <string name="resultados">Resultados:</string>
+    <string name="ocr">Detección de Texto</string>
+    <string name="rostros">Rostros</string>
+</resources>
